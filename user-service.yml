@@ -8,7 +8,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/user_microdb
     username: root
-    password: Deepali@1234
+    password: Deepali@aiopkp
 
   jpa:
     hibernate:
