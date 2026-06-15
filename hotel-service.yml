@@ -5,6 +5,16 @@ spring:
   application:
     name: hotel-service
 
+     datasource:
+    url: jdbc:mysql://localhost:3306/hotel_microdb
+    username: root
+    password: your-password
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
     eureka:
   client:
     service-url:
