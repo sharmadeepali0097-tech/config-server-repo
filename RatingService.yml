@@ -8,7 +8,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/rating_microdb
     username: root
-    password: Deepali@decec
+    password: Deepali@1234
 
   jpa:
     hibernate:
