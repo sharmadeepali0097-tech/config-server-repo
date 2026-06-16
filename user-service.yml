@@ -3,12 +3,12 @@ server:
 
 spring:
   application:
-    name: user-service
+    name: UserMicroservice
 
   datasource:
     url: jdbc:mysql://localhost:3306/user_microdb
     username: root
-    password: Deepali@aiopkp
+    password: Deepali@1234
 
   jpa:
     hibernate:
